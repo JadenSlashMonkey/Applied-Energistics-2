@@ -1,7 +1,7 @@
 # How to contribute
 
 We want to keep it as easy as possible to contribute changes to support
-the growth and stability of AE2. There are a few guidelines that we
+the growth and stability of AE2. There are a few guidelines that weblalalalalalalallllllllllllllllla!
 need contributors to follow so that we can have a chance of keeping on
 top of things.
 
